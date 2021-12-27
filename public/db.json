@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Amirkhan"
+    },
+    {
+      "id": 2,
+      "title": "Shamil"
+    },
+    {
+      "id": 3,
+      "title": "Islam"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Amirkhan"
+    }
+  ]
+}
