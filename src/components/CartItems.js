@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const CartItems = ({ id, title, addPost }) => {
+export const CartItems = ({ id, title, addPost, onRemove }) => {
   const addPostHandler = () => {
     const obj = {
       id,

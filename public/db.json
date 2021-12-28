@@ -2,21 +2,20 @@
   "users": [
     {
       "id": 1,
-      "title": "Amirkhan"
+      "title": "Amirkhan",
+      "count": 1
     },
     {
       "id": 2,
-      "title": "Shamil"
+      "title": "Shamil",
+      "count": 1
     },
     {
       "id": 3,
-      "title": "Islam"
+      "title": "Islam",
+      "count": 1
     }
   ],
-  "cart": [
-    {
-      "id": 1,
-      "title": "Amirkhan"
-    }
-  ]
+  "cart": [],
+  "register": {}
 }
