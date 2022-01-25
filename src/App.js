@@ -8,9 +8,9 @@ const App = () => {
   const [cart, setCart] = React.useState([]);
 
   React.useEffect(() => {
-    const fetchData = async (currentId) => {
+    const fetchData = async () => {
       try {
-        getUsers(currentId).then((data) => {
+        getUsers().then((data) => {
           setUsers(data[0].data);
           setCart(data[1].data);
         });
